@@ -1,0 +1,15 @@
+```
+ ___     _____ _            _                         _     __    __ _   __
+|__ \   / ____| |          | |                       | |   / /   / /(_) / /
+ ||) | | |    | |_   _  ___| |__   ___   __ _ _ __ __| |  / /_  / /_   / /
+ |/ /  | |    | | | | |/ _ \ '_ \ / _ \ / _` | '__/ _` | | '_ \| '_ \ / /
+ |_|   | |____| | |_| |  __/ |_) | (_) | (_| | | | (_| | | (_) | (_) / / _
+ (_)    \_____|_|\__,_|\___|_.__/ \___/ \__,_|_|  \__,_|  \___/ \___/_/ (_)
+```
+
+# Based on jokrik-layout with some extras
+
+- Caps-lock/FN
+- Space-cadet shifts
+- Split BS
+- Some keys mapped the same way as I have them in gonnerd custom layout
